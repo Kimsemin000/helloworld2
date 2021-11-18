@@ -1,2 +1,3 @@
 3rd
-test diff
+<<<<<<< HEAD
+I am the developer B.
